@@ -10,7 +10,8 @@ P.S.The text in the game is in Swedish
 ***
 
 ## Content in English 
-  
+![GAME](https://github.com/ROOTZLA/SPOSS_1/assets/148280991/552730a8-ffdb-4815-9fd6-4412d11cd1b3)
+
 __Welcome to play RPS!__
   
 * Write 1 for Rock (Sten beats Scissors and Lizard)
